@@ -1,5 +1,7 @@
-# Techiyaan Final Presentation Description 
-Due on 12th August
+<p align="center">
+   # Techiyaan Final Presentation Description
+   Due on 12th August
+</p>
 
 ### Introduction 
 Project Proposals/Presentations are the foundations of a project. Such presentations in the “real-world” can ensure financial and resource support. It also allows you to reflect on the final product you have, the resources you need to mass produce the project, and the new skills you acquired during the project. Proposals also allow you to plan your project realistically while keeping your vision alive. This project will emphasize this aspect of the engineering design process. 
