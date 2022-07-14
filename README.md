@@ -7,8 +7,8 @@ In this project, you are expected to work with your partner from the GeoGuesser 
 1. Run the GeoGuesser that you and your partner built. 
 2. Speak about the challenges that you faced while creating the game (with the aid of slides if desired)
 3. Speak about the new skills and concepts you learned in the process (with the aid of slides if desired)
-4. Now that you have acquired some new skills, propose another game or project you would like to create? Also mention how you would approach making this game or a part of this game (with the aid of slides).
-		a. For example, if you wish to create a tic-tac-toe talk about either, how you would approach the display, how you would check when the user has won, or how to differentiate between user inputs, etc. 
+4. Now that you have acquired some new skills, propose another game or project you would like to create. Also mention how you would approach making this game or a part of this game (with the aid of slides).
+   - For example, if you wish to create a tic-tac-toe talk about either, how you would approach the display, how you would check when the user has won, or how to differentiate between user inputs, etc. 
 5. Listen to/take feedback/questions on the newly proposed 
 ### Goals 
 1.	Give each student an opportunity to work in a team-setting and develop their communication and collaboration skills
